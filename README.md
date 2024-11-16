@@ -18,59 +18,61 @@ I am a results-driven Salesforce Consultant with over a decade of IT experience.
 ---
 
 ## 🏆 Certifications
+<p align="center">
+  <img src="Badges/AI%20Specialist.png" alt="AI Specialist" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Data%20Cloud%20Consultant.png" alt="Data Cloud Consultant" style="width: 12rem; height: 6rem;">
+  <img src="Badges/B2B%20Solution%20Architect.png" alt="B2B Solution Architect" style="width: 12rem; height: 6rem;">
+  <img src="Badges/AI%20Associate.png" alt="AI Associate" style="width: 12rem; height: 6rem;">
+  <img src="Badges/CPQ%20Specialist.png" alt="CPQ Specialist" style="width: 12rem; height: 6rem;">
+  <img src="Badges/OmniStudio%20Consultant.png" alt="OmniStudio Consultant" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Development%20Lifecycle%20and%20Deployment%20Architect.png" alt="Development Lifecycle and Deployment Architect" style="width: 12rem; height: 6rem;">
+  <img src="Badges/System%20Architect.png" alt="System Architect" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Identity%20and%20Access%20Management%20Architect.png" alt="Identity Architect" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Integration%20Architect.png" alt="Integration Architect" style="width: 12rem; height: 6rem;">
+  <img src="Badges/User%20Experience%20Designer.png" alt="User Experience Designer" style="width: 12rem; height: 6rem;">
+  <img src="Badges/OmniStudio%20Developer.png" alt="OmniStudio Developer" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Data%20Architect.png" alt="Data Architect" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Application%20Architect.png" alt="Application Architect" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Sharing%20and%20Visibility%20Architect.png" alt="Sharing and Visibility Architect" style="width: 12rem; height: 6rem;">
+  <img src="Badges/CRM%20Analytics%20and%20Einstein%20Discovery%20Consultant.png" alt="CRM Analytics and Einstein Discovery Consultant" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Platform%20Developer%20II.png" alt="Platform Developer II" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Platform%20Developer%20I.png" alt="Platform Developer I" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Field%20Service%20Consultant.png" alt="Field Service Consultant" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Experience%20Cloud%20Consultant.png" alt="Experience Cloud Consultant" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Sales%20Cloud%20Consultant.png" alt="Sales Cloud Consultant" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Platform%20App%20Builder.png" alt="Platform App Builder" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Advanced%20Administrator.png" alt="Advanced Administrator" style="width: 12rem; height: 6rem;">
+  <img src="Badges/Administrator.png" alt="Administrator" style="width: 12rem; height: 6rem;">
+</p>
 
-### **Recent Certifications**
-- **Salesforce Certified AI Specialist** (Oct 2024)  
-  ![AI Specialist](Badges/AI%20Specialist.png)
 
-- **Salesforce Certified Data Cloud Consultant** (Sep 2024)  
-  ![Data Cloud Consultant](Badges/Data%20Cloud%20Consultant.png)
 
-- **Salesforce Certified B2B Solution Architect** (Dec 2023)  
-  ![B2B Solution Architect](Badges/B2B%20Solution%20Architect.png)
-
-- **Salesforce Certified AI Associate** (Sep 2023)  
-  ![AI Associate](Badges/AI%20Associate.png)
-
-- **Salesforce Certified CPQ Specialist** (Aug 2023)  
-  ![CPQ Specialist](Badges/CPQ%20Specialist.png)
-
----
-
-### **Key Architect and Consultant Certifications**
-- **Salesforce Certified OmniStudio Consultant** (May 2023)  
-  ![OmniStudio Consultant](Badges/OmniStudio%20Consultant.png)
-
-- **Salesforce Certified Development Lifecycle and Deployment Architect** (Apr 2023)  
-  ![Development Lifecycle Architect](Badges/Development%20Lifecycle%20and%20Deployment%20Architect.png)
-
-- **Salesforce Certified System Architect** (Apr 2023)  
-  ![System Architect](Badges/System%20Architect.png)
-
-- **Salesforce Certified Identity and Access Management Architect** (Apr 2023)  
-  ![Identity Architect](Badges/Identity%20and%20Access%20Management%20Architect.png)
-
-- **Salesforce Certified Integration Architect** (Apr 2023)  
-  ![Integration Architect](Badges/Integration%20Architect.png)
-
----
-
-### **Developer and Foundational Certifications**
-- **Salesforce Certified Platform Developer II** (May 2020)  
-  ![Platform Developer II](Badges/Platform%20Developer%20II.png)
-
-- **Salesforce Certified Platform Developer I** (Apr 2020)  
-  ![Platform Developer I](Badges/Platform%20Developer%20I.png)
-
-- **Salesforce Certified Sales Cloud Consultant** (Jul 2016)  
-  ![Sales Cloud Consultant](Badges/Sales%20Cloud%20Consultant.png)
-
-- **Salesforce Certified Advanced Administrator** (Jun 2015)  
-  ![Advanced Administrator](Badges/Advanced%20Administrator.png)
-
-- **Salesforce Certified Administrator** (Sep 2014)  
-  ![Administrator](Badges/Administrator.png)
-
+### **Salesforce Certifications**
+1. Salesforce Certified AI Specialist
+2. Salesforce Certified Data Cloud Consultant
+3. Salesforce Certified B2B Solution Architect
+4. Salesforce Certified AI Associate
+5. Salesforce Certified CPQ Specialist
+6. Salesforce Certified OmniStudio Consultant
+7. Salesforce Certified Development Lifecycle and Deployment Architect
+8. Salesforce Certified System Architect
+9. Salesforce Certified Identity and Access Management Architect
+10. Salesforce Certified Integration Architect
+11. Salesforce Certified User Experience Designer
+12. Salesforce Certified OmniStudio Developer
+13. Salesforce Certified Data Architect
+14. Salesforce Certified Application Architect
+15. Salesforce Certified Sharing and Visibility Architect
+16. Salesforce Certified CRM Analytics and Einstein Discovery Consultant
+17. Salesforce Certified Platform Developer II
+18. Salesforce Certified Platform Developer I
+19. Salesforce Certified Field Service Consultant
+20. Salesforce Certified Experience Cloud Consultant
+21. Salesforce Certified Sales Cloud Consultant
+22. Salesforce Certified Platform App Builder
+23. Salesforce Certified Advanced Administrator
+24. Salesforce Certified Service Cloud Consultant
+25. Salesforce Certified Administrator
 ---
 
 ### **Accredited Certifications**
