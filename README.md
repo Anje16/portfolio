@@ -42,7 +42,7 @@ I am a results-driven Salesforce Consultant with over a decade of IT experience.
   ![OmniStudio Consultant](Badges/OmniStudio%20Consultant.png)
 
 - **Salesforce Certified Development Lifecycle and Deployment Architect** (Apr 2023)  
-  ![Development Lifecycle Architect](Badges/Development%20Lifecycle%20Architect.png)
+  ![Development Lifecycle Architect](Badges/Development%20Lifecycle%20and%20Deployment%20Architect.png)
 
 - **Salesforce Certified System Architect** (Apr 2023)  
   ![System Architect](Badges/System%20Architect.png)
@@ -58,15 +58,15 @@ I am a results-driven Salesforce Consultant with over a decade of IT experience.
 ### **Accredited Certifications**
 - **Security & Privacy Accredited Professional**  
   _Issued: March 19, 2023_  
-  ![Security & Privacy Accredited Professional](Badges/Security%20and%20Privacy%20Accredited.png)
+  ![Security & Privacy Accredited Professional](Badges/Security%20&%20Privacy%20Accredited%20Professional.png)
 
 - **Financial Services Cloud Accredited Professional**  
   _Issued: March 31, 2023_  
-  ![Financial Services Cloud Accredited Professional](Badges/Financial%20Services%20Cloud%20Accredited.png)
+  ![Financial Services Cloud Accredited Professional](Badges/Financial%20Services%20Cloud%20Accredited%20Professional.png)
 
 - **Einstein Prediction Builder Accredited Professional**  
   _Issued: July 16, 2021_  
-  ![Einstein Prediction Builder Accredited Professional](Badges/Einstein%20Prediction%20Builder%20Accredited.png)
+  ![Einstein Prediction Builder Accredited Professional](Badges/Einstein%20Prediction%20Builder%20Accredited%20Professional.png)
 
 ---
 
