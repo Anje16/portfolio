@@ -8,12 +8,25 @@
 ---
 
 ## 🌟 About Me
-I am a results-driven Salesforce Consultant with over a decade of IT experience. I specialize in designing, implementing, and optimizing Salesforce solutions to drive business success, with expertise across multiple Salesforce products and industry-specific applications.
 
-- **25x Salesforce Certified**, including Platform App Builder, Advanced Administrator, and Application Architect.
-- Proficient in **Vlocity**, **Einstein Analytics**, and **Omnistudio**.
-- Skilled in **Apex**, **Visualforce**, **JavaScript**, and modern front-end frameworks.
-- Multilingual: English (Professional), German (Elementary), Hindi (Native).
+With over a decade of IT experience and **25X Salesforce certifications**, I bring a wealth of expertise and a proven track record in the Salesforce ecosystem. My journey includes working with renowned organizations such as **Salesforce** and **Vlocity**, where I implemented innovative solutions and consistently delivered exceptional results.
+
+Currently serving as a **Senior Technical Consultant & Architect** at **Statista** in Hamburg, Germany, I specialize in designing, implementing, and optimizing Salesforce solutions to drive business success. My expertise spans multiple Salesforce products and industry-specific applications, ensuring I deliver customized solutions that align with clients' unique needs.
+
+### Key Highlights:
+- **25x Salesforce Certified**, including Platform App Builder, Advanced Administrator, and Application Architect.  
+- Proficient in **Vlocity**, **Einstein Analytics**, and **Omnistudio**.  
+- Skilled in **Apex**, **Visualforce**, **JavaScript**, and modern front-end frameworks.  
+- Multilingual: English (Professional), German (Elementary), Hindi (Native).  
+
+My commitment to staying at the forefront of industry trends ensures I continuously expand my expertise, delivering exceptional value to organizations and clients. Passionate about Salesforce and driven by a strong commitment to excellence, I am well-equipped to drive innovation and contribute to the success of businesses in the Salesforce ecosystem.
+
+### Volunteering and Mentoring:
+I am passionate about giving back to the community by mentoring aspiring Salesforce professionals and supporting nonprofits in leveraging Salesforce to achieve their missions. My experience includes:
+- **Volunteering**: Assisting nonprofits in implementing Salesforce solutions to streamline their operations and maximize impact.  
+- **Mentoring**: Coaching individuals entering the Salesforce ecosystem, guiding them in acquiring technical skills, achieving certifications, and building successful careers.  
+- **Community Engagement**: Actively participating in Salesforce user groups and community forums to share insights and foster collaboration.  
+
 
 ---
 
@@ -113,7 +126,6 @@ I am a results-driven Salesforce Consultant with over a decade of IT experience.
 - Programming: JavaScript, HTML, CSS, AngularJS  
 - Deployment: CI/CD, GitHub Actions  
 - Tools: VS Code, Salesforce DX, Tableau  
-
 ---
 
 ## 📊 Analytics Portfolio
