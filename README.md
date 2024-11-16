@@ -21,67 +21,67 @@ I am a results-driven Salesforce Consultant with over a decade of IT experience.
 
 ### **Recent Certifications**
 - **Salesforce Certified AI Specialist** (Oct 2024)  
-  ![AI Specialist](Badges/AI Specialist.png)
+  ![AI Specialist](Badges/AI%20Specialist.png)
 
 - **Salesforce Certified Data Cloud Consultant** (Sep 2024)  
-  ![Data Cloud Consultant](Badges/Data Cloud Consultant.png)
+  ![Data Cloud Consultant](Badges/Data%20Cloud%20Consultant.png)
 
 - **Salesforce Certified B2B Solution Architect** (Dec 2023)  
-  ![B2B Solution Architect](Badges/B2B Solution Architect.png)
+  ![B2B Solution Architect](Badges/B2B%20Solution%20Architect.png)
 
 - **Salesforce Certified AI Associate** (Sep 2023)  
-  ![AI Associate](Badges/AI Associate.png)
+  ![AI Associate](Badges/AI%20Associate.png)
 
 - **Salesforce Certified CPQ Specialist** (Aug 2023)  
-  ![CPQ Specialist](Badges/CPQ Specialist.png)
+  ![CPQ Specialist](Badges/CPQ%20Specialist.png)
 
 ---
 
 ### **Key Architect and Consultant Certifications**
 - **Salesforce Certified OmniStudio Consultant** (May 2023)  
-  ![OmniStudio Consultant](Badges/OmniStudio Consultant.png)
+  ![OmniStudio Consultant](Badges/OmniStudio%20Consultant.png)
 
 - **Salesforce Certified Development Lifecycle and Deployment Architect** (Apr 2023)  
-  ![Development Lifecycle Architect](Badges/Development Lifecycle Architect.png)
+  ![Development Lifecycle Architect](Badges/Development%20Lifecycle%20Architect.png)
 
 - **Salesforce Certified System Architect** (Apr 2023)  
-  ![System Architect](Badges/System Architect.png)
+  ![System Architect](Badges/System%20Architect.png)
 
 - **Salesforce Certified Identity and Access Management Architect** (Apr 2023)  
-  ![Identity Architect](Badges/Identity Architect.png)
+  ![Identity Architect](Badges/Identity%20Architect.png)
 
 - **Salesforce Certified Integration Architect** (Apr 2023)  
-  ![Integration Architect](Badges/Integration Architect.png)
+  ![Integration Architect](Badges/Integration%20Architect.png)
 
 ---
 
 ### **Accredited Certifications**
 - **Security & Privacy Accredited Professional**  
   _Issued: March 19, 2023_  
-  ![Security & Privacy Accredited Professional](Badges/Security and Privacy Accredited.png)
+  ![Security & Privacy Accredited Professional](Badges/Security%20and%20Privacy%20Accredited.png)
 
 - **Financial Services Cloud Accredited Professional**  
   _Issued: March 31, 2023_  
-  ![Financial Services Cloud Accredited Professional](Badges/Financial Services Cloud Accredited.png)
+  ![Financial Services Cloud Accredited Professional](Badges/Financial%20Services%20Cloud%20Accredited.png)
 
 - **Einstein Prediction Builder Accredited Professional**  
   _Issued: July 16, 2021_  
-  ![Einstein Prediction Builder Accredited Professional](Badges/Einstein Prediction Builder Accredited.png)
+  ![Einstein Prediction Builder Accredited Professional](Badges/Einstein%20Prediction%20Builder%20Accredited.png)
 
 ---
 
 ### **Developer and Foundational Certifications**
 - **Salesforce Certified Platform Developer II** (May 2020)  
-  ![Platform Developer II](Badges/Platform Developer II.png)
+  ![Platform Developer II](Badges/Platform%20Developer%20II.png)
 
 - **Salesforce Certified Platform Developer I** (Apr 2020)  
-  ![Platform Developer I](Badges/Platform Developer I.png)
+  ![Platform Developer I](Badges/Platform%20Developer%20I.png)
 
 - **Salesforce Certified Sales Cloud Consultant** (Jul 2016)  
-  ![Sales Cloud Consultant](Badges/Sales Cloud Consultant.png)
+  ![Sales Cloud Consultant](Badges/Sales%20Cloud%20Consultant.png)
 
 - **Salesforce Certified Advanced Administrator** (Jun 2015)  
-  ![Advanced Administrator](Badges/Advanced Administrator.png)
+  ![Advanced Administrator](Badges/Advanced%20Administrator.png)
 
 - **Salesforce Certified Administrator** (Sep 2014)  
   ![Administrator](Badges/Administrator.png)
