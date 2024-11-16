@@ -55,21 +55,6 @@ I am a results-driven Salesforce Consultant with over a decade of IT experience.
 
 ---
 
-### **Accredited Certifications**
-- **Security & Privacy Accredited Professional**  
-  _Issued: March 19, 2023_  
-  ![Security & Privacy Accredited Professional](Badges/Security%20&%20Privacy%20Accredited%20Professional.png)
-
-- **Financial Services Cloud Accredited Professional**  
-  _Issued: March 31, 2023_  
-  ![Financial Services Cloud Accredited Professional](Badges/Financial%20Services%20Cloud%20Accredited%20Professional.png)
-
-- **Einstein Prediction Builder Accredited Professional**  
-  _Issued: July 16, 2021_  
-  ![Einstein Prediction Builder Accredited Professional](Badges/Einstein%20Prediction%20Builder%20Accredited%20Professional.png)
-
----
-
 ### **Developer and Foundational Certifications**
 - **Salesforce Certified Platform Developer II** (May 2020)  
   ![Platform Developer II](Badges/Platform%20Developer%20II.png)
@@ -85,6 +70,21 @@ I am a results-driven Salesforce Consultant with over a decade of IT experience.
 
 - **Salesforce Certified Administrator** (Sep 2014)  
   ![Administrator](Badges/Administrator.png)
+
+---
+
+### **Accredited Certifications**
+- **Security & Privacy Accredited Professional**  
+  _Issued: March 19, 2023_  
+  ![Security & Privacy Accredited Professional](Badges/Security%20&%20Privacy%20Accredited%20Professional.png)
+
+- **Financial Services Cloud Accredited Professional**  
+  _Issued: March 31, 2023_  
+  ![Financial Services Cloud Accredited Professional](Badges/Financial%20Services%20Cloud%20Accredited%20Professional.png)
+
+- **Einstein Prediction Builder Accredited Professional**  
+  _Issued: July 16, 2021_  
+  ![Einstein Prediction Builder Accredited Professional](Badges/Einstein%20Prediction%20Builder%20Accredited%20Professional.png)
 
 ---
 
