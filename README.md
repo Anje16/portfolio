@@ -3,7 +3,7 @@
 
 📍 Hamburg, Germany  
 📧 [anjali.dahiya16@yahoo.com](mailto:anjali.dahiya16@yahoo.com)  
-🔗 [LinkedIn](https://in.linkedin.com/in/anjali16) | [Personal Website](https://www.anjali-dahiya.com) | [Xing Profile](https://www.xing.com/profile/Anjali_Dahiya4)
+🔗 [LinkedIn](https://www.linkedin.com/in/anjali16) | [Personal Website](https://www.anjali-dahiya.com) | [Xing Profile](https://www.xing.com/profile/Anjali_Dahiya4)
 
 ---
 
@@ -18,15 +18,20 @@ A results-driven Salesforce Consultant with over a decade of IT experience, I sp
 ---
 
 ### 🏆 Certifications
-Here’s a snapshot of my Salesforce certifications:
-- Salesforce Advanced Administrator
-- Salesforce Platform Developer I & II
-- Tableau CRM and Einstein Discovery Consultant
-- Omnistudio Developer & Consultant
-- Application Architect and System Architect
-- AI Associate and Prediction Builder Accredited Professional
+Here’s a list of my certifications. The detailed certification images are available in [this repository](#) or click on the individual certifications below:
 
-**Full List:** Available [here](https://www.credly.com/users/anjali-dahiya16)
+1. [Salesforce Advanced Administrator](#)
+2. [Salesforce Platform Developer I](#)
+3. [Salesforce Platform Developer II](#)
+4. [Tableau CRM and Einstein Discovery Consultant](#)
+5. [Omnistudio Developer](#)
+6. [Omnistudio Consultant](#)
+7. [Application Architect](#)
+8. [System Architect](#)
+9. [Einstein Prediction Builder Accredited Professional](#)
+10. [Vlocity Certified CPQ Administrator](#)
+
+_For the full list, visit my [Credly Profile](https://www.credly.com/users/anjali-dahiya16)._
 
 ---
 
@@ -48,7 +53,21 @@ Here’s a snapshot of my Salesforce certifications:
 
 ---
 
-### 📊 Analytics Expertise
+### 🛠 Skills
+#### **Salesforce Expertise**
+- CRM Solutions: Sales Cloud, Service Cloud, Marketing Cloud
+- Development: Apex, Visualforce, Lightning Web Components (LWC)
+- Integration: REST/SOAP APIs, Vlocity CPQ, Omnistudio
+- Analytics: Tableau CRM, Einstein Analytics
+
+#### **Technical Skills**
+- Programming: JavaScript, HTML, CSS, AngularJS
+- Deployment: CI/CD, GitHub Actions
+- Tools: VS Code, Salesforce DX, Tableau
+
+---
+
+### 📊 Analytics Portfolio
 Check out my [Tableau portfolio](https://public.tableau.com/app/profile/anjali.dahiya) for examples of interactive dashboards and visualizations.
 
 ---
