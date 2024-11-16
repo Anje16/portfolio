@@ -48,7 +48,7 @@ I am a results-driven Salesforce Consultant with over a decade of IT experience.
   ![System Architect](Badges/System%20Architect.png)
 
 - **Salesforce Certified Identity and Access Management Architect** (Apr 2023)  
-  ![Identity Architect](Badges/Identity%20Architect.png)
+  ![Identity Architect](Badges/Identity%20and%20Access%20Management%20Architect.png)
 
 - **Salesforce Certified Integration Architect** (Apr 2023)  
   ![Integration Architect](Badges/Integration%20Architect.png)
